@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Aadithya jp
 #### Aspiring Data Scientist
-![Aspiring Data Scientist](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Aspiring Data Scientist]
 
 I'm Aadithya from India, a aspiring data scientist. I really enjoy solving real-world data science problem with data analysis and Machine learning andd also enjoy deploying the ML model in platforms like Heroku,etc.,
 
