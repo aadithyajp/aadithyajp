@@ -12,6 +12,9 @@ I'm Aadithya from India, a aspiring data scientist. I really enjoy solving real-
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning AI/ML OPS, Deep Learning, 🛳️Docker, 🪣AWS S3 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aadithyajp&show_icons=true)  
+
+<img src="https://github-readme-stats.vercel.app/api?username=aadithyajp&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Aadithya's GitHub Stats">
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aadithyajp)  
+
+⭐️ From [aadithyajp](https://github.com/aadithyajp)
