@@ -1,12 +1,9 @@
 ## Hi there 👋, I'm Aadithya jp
-## Aspiring Data Scientist
-
 </a>
-<br>
 <br>
 <img src="https://komarev.com/ghpvc/?username=aadithyajp&color=blueviolet">
 <br />
-<br />
+## Aspiring Data Scientist
 
 I'm Aadithya from India, a aspiring data scientist. I really enjoy solving real-world data science problem with data analysis and Machine learning and also enjoy deploying the ML model in platforms like Heroku,etc.,
 
