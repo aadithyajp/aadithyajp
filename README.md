@@ -3,7 +3,7 @@
 
 ## Aspiring Data Scientist
 
-I'm Aadithya from India, a aspiring data scientist. I really enjoy solving real-world data science problem with data analysis and Machine learning and also enjoy deploying the ML model in platforms like Heroku,etc.,
+I'm Aadithya from India, a aspiring data scientist. I really enjoy solving real-world data science problem with data analysis and Machine learning and deploying the ML model in platforms like Heroku,AWS,etc.,
 
 # Language and Tools
 🐍Python, 📊Matplotlib, 🐼Pandas, ➗NumPy, 🧪Scikit-learn, 🧱Flask, 🔐MySQL, 🔓MongoDB.
